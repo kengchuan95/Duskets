@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity\\FPS Attempt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E30C04E9-E052-231F-0184-6E7A8121627B}|Assembly-CSharp.csproj|c:\\unity\\fps attempt\\assets\\scripts\\gamestate\\gamestatebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30C04E9-E052-231F-0184-6E7A8121627B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamestate\\gamestatebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E30C04E9-E052-231F-0184-6E7A8121627B}|Assembly-CSharp.csproj|c:\\unity\\fps attempt\\assets\\scripts\\player interactions\\enemyspawnbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E30C04E9-E052-231F-0184-6E7A8121627B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player interactions\\enemyspawnbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameStateBehaviour.cs",
+              "DocumentMoniker": "C:\\Unity\\FPS Attempt\\Assets\\Scripts\\GameState\\GameStateBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameState\\GameStateBehaviour.cs",
+              "ToolTip": "C:\\Unity\\FPS Attempt\\Assets\\Scripts\\GameState\\GameStateBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameState\\GameStateBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:58:45.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemySpawnBehaviour.cs",
+              "DocumentMoniker": "C:\\Unity\\FPS Attempt\\Assets\\Scripts\\Player Interactions\\EnemySpawnBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Interactions\\EnemySpawnBehaviour.cs",
+              "ToolTip": "C:\\Unity\\FPS Attempt\\Assets\\Scripts\\Player Interactions\\EnemySpawnBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Interactions\\EnemySpawnBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:56:04.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
